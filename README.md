@@ -47,7 +47,7 @@ This dashboard helps food delivery businesses to:
 
 Real-time analytics dashboard for food delivery operations.
 
-![Food Delivery Dashboard](images/delivery_food.png)
+![Food Delivery Dashboard](delivery_food.png)
 ---
 
 ## ▶️ How to Run Locally
