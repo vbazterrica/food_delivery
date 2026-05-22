@@ -49,6 +49,8 @@ Real-time analytics dashboard for food delivery operations.
 
 ![Food Delivery Dashboard](delivery_food.png)
 ---
+## 🚀 Live Demo
+https://fooddelivery-9tgh5uc7cr26ldqnyemxfx.streamlit.app/
 
 ## ▶️ How to Run Locally
 
